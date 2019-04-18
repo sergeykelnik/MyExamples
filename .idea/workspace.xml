@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08d86962-8a5c-4d6f-ba8e-81322eefaee3" name="Default Changelist" comment="" />
+    <list default="true" id="08d86962-8a5c-4d6f-ba8e-81322eefaee3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/constructors/ConstructorsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/domainmodel/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/inheritance/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/inheritance/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/inheritance/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/inheritance/EngineType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/inheritance/FuelAuto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/inheritance/InheritanceMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/inheritance/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/oop/Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyExamples/META-INF/MyExamples.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyExamples/META-INF/MyExamples.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyExamples/com/javalesson/oop/Doge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyExamples/com/javalesson/oop/Doge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyExamples/com/javalesson/oop/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyExamples/com/javalesson/oop/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javalesson/oop/Doge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javalesson/oop/Doge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javalesson/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javalesson/oop/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,40 +32,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/javalesson/oop/Doge.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/javalesson/inheritance/Auto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+            <state relative-caret-position="278">
+              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
               <folding>
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
-                <element signature="e#827#828#0" expanded="true" />
-                <element signature="e#864#865#0" expanded="true" />
-                <element signature="e#896#897#0" expanded="true" />
-                <element signature="e#924#925#0" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
-                <element signature="e#988#989#0" expanded="true" />
-                <element signature="e#1020#1021#0" expanded="true" />
-                <element signature="e#1051#1052#0" expanded="true" />
-                <element signature="e#1078#1079#0" expanded="true" />
-                <element signature="e#1118#1119#0" expanded="true" />
-                <element signature="e#1150#1151#0" expanded="true" />
-                <element signature="e#1182#1183#0" expanded="true" />
-                <element signature="e#1210#1211#0" expanded="true" />
-                <element signature="e#1252#1253#0" expanded="true" />
-                <element signature="e#1286#1287#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/javalesson/inheritance/InheritanceMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/javalesson/inheritance/ElectricCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding>
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#748#749#0" expanded="true" />
+                <element signature="e#786#787#0" expanded="true" />
+                <element signature="e#845#846#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javalesson/oop/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javalesson/inheritance/Truck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="58" />
+            <state relative-caret-position="95">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+              <folding>
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/javalesson/inheritance/Bus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/javalesson/inheritance/FuelAuto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+              <folding>
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#776#777#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,9 +129,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -72,8 +148,20 @@
         <option value="$PROJECT_DIR$/src/com/javalesson/hello/SwitchCase.java" />
         <option value="$PROJECT_DIR$/src/com/javalesson/hello/StringTypes.java" />
         <option value="$PROJECT_DIR$/src/com/javalesson/oop/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/oop/Size.java" />
         <option value="$PROJECT_DIR$/src/com/javalesson/oop/Main.java" />
         <option value="$PROJECT_DIR$/src/com/javalesson/oop/Doge.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/constructors/ConstructorsMain.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/domainmodel/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/inheritance/EngineType.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/inheritance/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/inheritance/ElectricCar.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/inheritance/PetrolAuto.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/inheritance/Auto.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/inheritance/Truck.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/inheritance/FuelAuto.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/inheritance/Bus.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/inheritance/InheritanceMain.java" />
       </list>
     </option>
   </component>
@@ -88,6 +176,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,19 +196,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javalesson" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MyExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javalesson" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,8 +207,9 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HaldexSeleniumTestsJava" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,7 +223,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.InheritanceMain">
+    <configuration name="ConstructorsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javalesson.constructors.ConstructorsMain" />
+      <module name="MyExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javalesson.constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javalesson.inheritance.InheritanceMain" />
+      <module name="MyExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javalesson.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javalesson.oop.Main" />
       <module name="MyExamples" />
@@ -155,34 +263,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javalesson.controlstatement.Methods" />
-      <module name="MyExamples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javalesson.controlstatement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javalesson.hello.StringTypes" />
-      <module name="MyExamples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javalesson.hello.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javalesson.hello.SwitchCase" />
       <module name="MyExamples" />
       <extension name="coverage">
         <pattern>
@@ -209,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InheritanceMain" />
+        <item itemvalue="Application.ConstructorsMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.StringTypes" />
         <item itemvalue="Application.WhileDO" />
-        <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.Methods" />
       </list>
     </recent_temporary>
   </component>
@@ -231,9 +313,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13432837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13646056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -241,8 +323,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33260393" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328585" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33238366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -250,7 +332,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.328585" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -294,13 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javalesson/operators/Operators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javalesson/hello/SwitchCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -308,17 +383,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="1447" column="23" lean-forward="true" selection-start-line="1447" selection-start-column="23" selection-end-line="1447" selection-end-column="23" />
-          <folding>
-            <element signature="e#56437#56438#0" expanded="true" />
-            <element signature="e#56514#56515#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/com/javalesson/hello/StringTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -326,37 +391,155 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/operators/Operators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javalesson/oop/Doge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
-          <folding>
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#864#865#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#988#989#0" expanded="true" />
-            <element signature="e#1020#1021#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1078#1079#0" expanded="true" />
-            <element signature="e#1118#1119#0" expanded="true" />
-            <element signature="e#1150#1151#0" expanded="true" />
-            <element signature="e#1182#1183#0" expanded="true" />
-            <element signature="e#1210#1211#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
-            <element signature="e#1286#1287#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="940">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/oop/Size.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javalesson/oop/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="58" />
+        <state relative-caret-position="660">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/domainmodel/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/constructors/ConstructorsMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="242" column="65" selection-start-line="242" selection-start-column="65" selection-end-line="242" selection-end-column="65" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/inheritance/EngineType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/inheritance/Auto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/inheritance/ElectricCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/inheritance/Truck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/inheritance/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/inheritance/FuelAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/inheritance/InheritanceMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -366,6 +549,17 @@
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
