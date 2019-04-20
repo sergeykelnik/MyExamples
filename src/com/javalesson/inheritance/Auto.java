@@ -3,14 +3,14 @@ package com.javalesson.inheritance;
 public class Auto {
     private String producer;
     private String model;
-    private EngineType engineType;
+    private Engine engine;
     private int currentSpeed;
     protected boolean isRunning;
 
-    public Auto(String producer, String model, EngineType engineType) {
+    public Auto(String producer, String model, Engine engine) {
         this.producer = producer;
         this.model = model;
-        this.engineType = engineType;
+        this.engine = engine;
         System.out.println("Auto was initialized");
     }
 
@@ -29,16 +29,16 @@ public class Auto {
         System.out.println("Accelerating. Current speed is "+ currentSpeed+ " kmph");
     }
 
+    public Engine getEngine() {
+        return engine;
+    }
+
     public String getProducer() {
         return producer;
     }
 
     public String getModel() {
         return model;
-    }
-
-    public EngineType getEngineType() {
-        return engineType;
     }
 
     public int getCurrentSpeed() {
@@ -54,7 +54,7 @@ public class Auto {
         return "Auto{" +
                 "producer='" + producer + '\'' +
                 ", model='" + model + '\'' +
-                ", engineType=" + engineType +
+                ", engine=" + engine +
                 ", currentSpeed=" + currentSpeed +
                 ", isRunning=" + isRunning +
                 '}';
