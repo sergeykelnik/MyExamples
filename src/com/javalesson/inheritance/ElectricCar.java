@@ -20,6 +20,20 @@ public class ElectricCar extends Auto {
         return batteryVolume;
     }
 
+    @Override
+    public void start() {
+        isRunning = true;
+        setCurrentSpeed(10);
+        System.out.println("Car is starting");
+    }
+
+    @Override
+    public void stop() {
+        isRunning=false;
+        setCurrentSpeed(0);
+        System.out.println("Car has stopped");
+    }
+
     public void setBatteryVolume(int batteryVolume) {
         this.batteryVolume = batteryVolume;
     }

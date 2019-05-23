@@ -14,6 +14,10 @@ public class Auto {
         System.out.println("Auto was initialized");
     }
 
+    public void setCurrentSpeed(int currentSpeed) {
+        this.currentSpeed = currentSpeed;
+    }
+
     public void start(){
         isRunning=true;
         currentSpeed = 10;
